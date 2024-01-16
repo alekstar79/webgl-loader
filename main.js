@@ -42,8 +42,8 @@ class World
 
   resize()
   {
-    const w = window.innerWidth / 3
-    const h = window.innerHeight / 3
+    const w = window.innerWidth
+    const h = window.innerHeight
 
     this.camera.aspect = w / h
     this.camera.updateProjectionMatrix()
