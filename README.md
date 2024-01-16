@@ -2,7 +2,7 @@
 
 ![review](review.gif "WebGL Loader")
 
-[DEMO](https://alekstar79.github.io/movie-app)
+[DEMO](https://alekstar79.github.io/webgl-loader)
 
 All functionality is implemented using HTML5, OpenGL, ThreeJS and pure JavaScript.
 
