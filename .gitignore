@@ -2,6 +2,7 @@
 node_modules
 dist
 
+.better-commits.json
 
 # local env files
 .env.local

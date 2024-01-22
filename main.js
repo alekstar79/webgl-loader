@@ -1,5 +1,7 @@
 import * as THREE from 'three'
 
+// research and testing of the better-commits tool
+
 class World
 {
   renderer;
